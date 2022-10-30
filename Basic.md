@@ -10,4 +10,17 @@ example:
 
  $ cd Downloads
 
- voila you have changed your directory.
+ (voila you have changed your directory.)
+
+ ls:list every kind of file in current directory
+
+ example:
+    You are in downloads section and you have 3 files {1.txt,wh.apk,wallpaper.jpg}
+
+ $ls
+
+ 1.txt
+ wh.apk
+ wallpaper.jpg
+
+
